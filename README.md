@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/VladymereBilan?tab=repositories"><img src="https://img.shields.io/badge/Repos-15-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:dimmybilan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/vladymere-bilan-7084813b7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vladymere-bilan-7084813b7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
